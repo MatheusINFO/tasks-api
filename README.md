@@ -24,7 +24,7 @@
 
 ## Project
 
-That's my first project using NestJs. I will build a simple Crud with authentication to managment my tasks. Credits to NestJs zero to hero from Udemy.
+That's my first project using NestJs. I will build a simple Crud with authentication to managment my tasks. Credits to NestJs zero to hero from Udemy!
 
 ## Description
 
